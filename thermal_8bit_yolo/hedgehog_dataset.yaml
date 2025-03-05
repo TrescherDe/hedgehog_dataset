@@ -1,0 +1,6 @@
+train: thermal_8bit_yolo/train
+val: thermal_8bit_yolo/val
+test: thermal_8bit_yolo/test
+
+nc: 1
+names: [hedgehog]

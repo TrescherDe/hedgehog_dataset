@@ -1,0 +1,6 @@
+train: rgb_yolo/train
+val: rgb_yolo/val
+test: rgb_yolo/test
+
+nc: 1
+names: [hedgehog]
