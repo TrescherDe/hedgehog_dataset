@@ -1,3 +1,31 @@
 split/*
 hedgehog_dataset/*
 *.py
+test_evaluation/*
+test_evaluation_iou/*
+thermal/*
+resources/*
+plots/*
+logs/*
+
+labels_rgb/*
+labels_thermal/*
+runs/*
+runs_same_seed/*
+
+
+
+yolo_test_yaml/*
+thermal_8bit_yolo/calibration_images/*
+
+train_yolov8_pipeline_rgb_same_seed.sh
+train_yolov8_pipeline_rgb.sh
+train_yolov8_pipeline_thermal_same_seed.sh
+train_yolov8_pipeline_thermal.sh yolo11n.pt
+yolov8_evaluation_results.json yolov8n.pt
+train_yolov8_pipeline_thermal.sh
+yolo11n.pt
+yolov8_evaluation_results.json
+yolov8n.pt
+
+annotation_count.py calibration_data.py calibration_grayscale_to_rgb.py check_npy.py check_onnx.py compare_dataset.py convert_and_split_json.py evaluation_pipeline_yolo.py generate_rgb_json.py generate_yolo_sh.py inspect_onxx.py make_test_video.py onnx_with_npy.py split_dataset.py split_yolo_labels.py test_evaluation_map.py test_evaluation.py
