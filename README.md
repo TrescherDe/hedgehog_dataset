@@ -64,9 +64,9 @@ If you use this dataset in your research, please cite it as follows:
 ```bibtex
 @misc{hedgehog_thermal_dataset,
   title={Hedgehog Sanctuary RGB-Thermal Dataset},
-  author={Your Name},
+  author={Denis Trescher},
   year={2025},
-  note={Available at https://github.com/YOUR_REPO}
+  note={Available at https://github.com/TrescherDe/hedgehog_dataset} 
 }
 ```
 ## License
